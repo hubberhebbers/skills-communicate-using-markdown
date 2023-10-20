@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
@@ -22,9 +22,6 @@
 -->
 
 ## Step 1: Add headers
-
-# adding a header
-## Adding an H2
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
